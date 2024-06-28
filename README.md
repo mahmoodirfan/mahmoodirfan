@@ -2,4 +2,4 @@
 
 💞️ I’m looking to collaborate on projects that focus on climate change monitoring, environmental analysis using GIS, and innovative applications of remote sensing technologies. My experience in geospatial analytics and environmental research makes me a valuable contributor to projects seeking to leverage these technologies for societal benefit.
 
-📫 For collaborations, discussions, or inquiries, feel free to connect with me. You can reach me at [irfan-mahmood@outlook.com], and I'm always open to engaging with fellow professionals and enthusiasts.
+📫 For collaborations, discussions, or inquiries, feel free to connect with me. You can reach me at [irfan.koreshe@gmail.com or irfan-mahmood@outlook.com], and I'm always open to engaging with fellow professionals and enthusiasts.
