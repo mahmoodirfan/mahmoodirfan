@@ -1,16 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1d9e75&height=120&section=header&text=Irfan%20Mahmood&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=Remote%20Sensing%20%26%20GIS%20Specialist%20%7C%20Environmental%20Geoscience%20%7C%20GIS%20Developer&descSize=14&descAlignY=85&descColor=9fe1cb" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1d9e75&height=140&section=header&text=Irfan%20Mahmood&fontSize=48&fontColor=ffffff&fontAlignY=60&desc=Remote%20Sensing%20%26%20GIS%20Specialist%20%7C%20Environmental%20Geoscience%20%7C%20GIS%20Developer&descSize=14&descAlignY=78&descColor=9fe1cb" width="100%"/>
 
 </div>
 
 <div align="center">
 
-![](https://img.shields.io/badge/Experience-13%2B%20Years-%231d9e75?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/Publications-20%2B%20Peer--Reviewed-%23378add?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/Trained-200%2B%20Professionals-%23ba7517?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/GIS%20Tools-4%20Published-%23d85a30?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/Gold%20Medal-BSc%20Geophysics-%231d9e75?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/Experience-13%2B%20Years-1d9e75?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/Publications-20%2B%20Peer--Reviewed-378add?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/Trained-200%2B%20Professionals-ba7517?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/GIS%20Tools-4%20Published-d85a30?style=for-the-badge&labelColor=0d1117)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🌐 [mahmoodirfan.github.io](https://mahmoodirfan.github.io) — Full portfolio with dark theme
 
 </div>
 
@@ -19,8 +26,6 @@
 > 13+ years building geospatial solutions for climate risk, crop insurance, environmental monitoring, and natural hazard assessment.
 > Specializing in **InSAR land deformation**, **earthquake thermal precursors**, **crop health factor (CHF)** methodology,
 > **drought indices (SPI/SPEI/VCI)**, air quality monitoring, and rangeland degradation mapping across Pakistan and South Asia.
-
-<br/>
 
 ---
 
@@ -31,7 +36,7 @@ $ python -c "print(irfan.expertise)"
 
 →  Multi-temporal SAR/optical analysis  |  InSAR land deformation  |  Earthquake thermal precursors
 →  Crop health factor (CHF)  |  Weather index insurance  |  NDVI time-series  |  Drought indices (SPI/SPEI/VCI/CDI)
-→  Air quality monitoring (PM2.5/AOD)   |  Rangeland & forest degradation  |  Flood mapping  |  Oil spill detection
+→  Air quality monitoring (PM2.5/AOD)  |  Rangeland & forest degradation  |  Flood mapping  |  Oil spill detection
 →  GEE cloud computing  |  PyQGIS tool development  |  React + Flask geospatial web apps
 ```
 
@@ -39,53 +44,45 @@ $ python -c "print(irfan.expertise)"
 
 ## 🛠 Published Geospatial Tools
 
-<div align="center">
-
-> Tools published on the official [QGIS Plugin Repository](https://plugins.qgis.org) and [PyPI](https://pypi.org)
-
-</div>
+> Published on the official [QGIS Plugin Repository](https://plugins.qgis.org) and [PyPI](https://pypi.org)
 
 <table>
 <tr>
 <td valign="top" width="50%">
 <h3>🔴 <a href="https://github.com/mahmoodirfan/RasterTrend">RasterTrend</a> &nbsp;<code>QGIS Plugin</code></h3>
-<p>Pixel-wise <strong>Mann-Kendall</strong> trend analysis and <strong>Sen's Slope</strong> estimation on raster time-series stacks. Supports Standard and Seasonal Mann-Kendall tests.</p>
-<p>
-<img src="https://img.shields.io/badge/PyQGIS-%230d1117?style=flat-square&logo=qgis&logoColor=1d9e75"/>
-<img src="https://img.shields.io/badge/NumPy-%230d1117?style=flat-square&logo=numpy&logoColor=4dabcf"/>
-<img src="https://img.shields.io/badge/SciPy-%230d1117?style=flat-square&logo=scipy&logoColor=4dabcf"/>
-<img src="https://img.shields.io/badge/GDAL-%230d1117?style=flat-square&logoColor=white"/>
-</p>
+Pixel-wise <b>Mann-Kendall</b> trend analysis and <b>Sen's Slope</b> on raster time-series stacks. Supports Standard and Seasonal MK tests.
+
+![PyQGIS](https://img.shields.io/badge/PyQGIS-0d1117?style=flat-square&logo=qgis&logoColor=1d9e75)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=4dabcf)
+![SciPy](https://img.shields.io/badge/SciPy-0d1117?style=flat-square&logo=scipy&logoColor=4dabcf)
+![GDAL](https://img.shields.io/badge/GDAL-0d1117?style=flat-square)
 </td>
 <td valign="top" width="50%">
 <h3>🟠 TrendShift &nbsp;<code>QGIS Plugin</code></h3>
-<p>Pixel-wise <strong>abrupt change-point detection</strong> via Pettitt's non-parametric test. Outputs change magnitude, direction, p-value, and significance mask rasters.</p>
-<p>
-<img src="https://img.shields.io/badge/PyQGIS-%230d1117?style=flat-square&logo=qgis&logoColor=1d9e75"/>
-<img src="https://img.shields.io/badge/Rasterio-%230d1117?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/SciPy-%230d1117?style=flat-square&logo=scipy&logoColor=4dabcf"/>
-</p>
+Pixel-wise <b>abrupt change-point detection</b> via Pettitt's non-parametric test. Outputs magnitude, direction, p-value, and significance masks.
+
+![PyQGIS](https://img.shields.io/badge/PyQGIS-0d1117?style=flat-square&logo=qgis&logoColor=1d9e75)
+![Rasterio](https://img.shields.io/badge/Rasterio-0d1117?style=flat-square)
+![SciPy](https://img.shields.io/badge/SciPy-0d1117?style=flat-square&logo=scipy&logoColor=4dabcf)
 </td>
 </tr>
 <tr>
 <td valign="top" width="50%">
 <h3>🟢 <a href="https://github.com/mahmoodirfan/spatialdrought">spatialdrought</a> &nbsp;<code>PyPI Package</code></h3>
-<p>Pixel-wise <strong>spatial drought index</strong> computation on gridded remote sensing and climate datasets. Supports <strong>SPI, SPEI, VCI, TCI, VHI,</strong> and <strong>CDI</strong>.</p>
-<p>
-<img src="https://img.shields.io/badge/Python-%230d1117?style=flat-square&logo=python&logoColor=f7c948"/>
-<img src="https://img.shields.io/badge/GeoPandas-%230d1117?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Rasterio-%230d1117?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-%230d1117?style=flat-square&logo=numpy&logoColor=4dabcf"/>
-</p>
+Pixel-wise <b>spatial drought index</b> computation on gridded datasets. Supports <b>SPI, SPEI, VCI, TCI, VHI,</b> and <b>CDI</b>.
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=f7c948)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-0d1117?style=flat-square)
+![Rasterio](https://img.shields.io/badge/Rasterio-0d1117?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=4dabcf)
 </td>
 <td valign="top" width="50%">
 <h3>🔵 <a href="https://github.com/mahmoodirfan/OpenGeoEnrich">OpenGeoEnrich</a> &nbsp;<code>QGIS Plugin</code></h3>
-<p>Automated <strong>geoenrichment</strong> integrating open global datasets — population, land cover, elevation, and OSM infrastructure — for any user-defined study area.</p>
-<p>
-<img src="https://img.shields.io/badge/PyQGIS-%230d1117?style=flat-square&logo=qgis&logoColor=1d9e75"/>
-<img src="https://img.shields.io/badge/OSM%20API-%230d1117?style=flat-square&logo=openstreetmap&logoColor=7ebc6f"/>
-<img src="https://img.shields.io/badge/GeoPandas-%230d1117?style=flat-square&logoColor=white"/>
-</p>
+Automated <b>geoenrichment</b> integrating population, land cover, elevation, and OSM infrastructure for any user-defined study area.
+
+![PyQGIS](https://img.shields.io/badge/PyQGIS-0d1117?style=flat-square&logo=qgis&logoColor=1d9e75)
+![OSM](https://img.shields.io/badge/OSM%20API-0d1117?style=flat-square&logo=openstreetmap&logoColor=7ebc6f)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-0d1117?style=flat-square)
 </td>
 </tr>
 </table>
@@ -122,11 +119,7 @@ $ python -c "print(irfan.expertise)"
 | 2018 | Assessment of aerosol optical properties over twin cities of Pakistan | *J. Atmospheric & Solar-Terrestrial Physics* |
 | 2017 | Atmospheric anomalies associated with Kashmir and Awaran Earthquakes | *J. Atmospheric & Solar-Terrestrial Physics* |
 
-<div align="center">
-
-📚 Full publication list → **[Google Scholar](https://scholar.google.com/citations?hl=en&user=h8RBIjQAAAAJ)**
-
-</div>
+<div align="center">📚 Full list → <b><a href="https://scholar.google.com/citations?hl=en&user=h8RBIjQAAAAJ">Google Scholar</a></b></div>
 
 ---
 
@@ -134,30 +127,19 @@ $ python -c "print(irfan.expertise)"
 
 <div align="center">
 
-**Satellite & EO**
-
-![Sentinel](https://img.shields.io/badge/Sentinel--1%2F2-%230d1117?style=for-the-badge&logoColor=1d9e75)
-![Landsat](https://img.shields.io/badge/Landsat-%230d1117?style=for-the-badge&logoColor=1d9e75)
-![MODIS](https://img.shields.io/badge/MODIS-%230d1117?style=for-the-badge&logoColor=1d9e75)
-![InSAR](https://img.shields.io/badge/InSAR-%230d1117?style=for-the-badge&logoColor=1d9e75)
-![SNAP](https://img.shields.io/badge/SNAP-%230d1117?style=for-the-badge&logoColor=1d9e75)
-![ERDAS](https://img.shields.io/badge/ERDAS%20Imagine-%230d1117?style=for-the-badge&logoColor=1d9e75)
-
-**Platforms & GIS**
-
-![GEE](https://img.shields.io/badge/Google%20Earth%20Engine-%230d1117?style=for-the-badge&logo=google&logoColor=1d9e75)
-![ArcGIS](https://img.shields.io/badge/ArcGIS%20Pro-%230d1117?style=for-the-badge&logoColor=1d9e75)
-![QGIS](https://img.shields.io/badge/QGIS-%230d1117?style=for-the-badge&logo=qgis&logoColor=1d9e75)
-![Leaflet](https://img.shields.io/badge/Leaflet.js-%230d1117?style=for-the-badge&logo=leaflet&logoColor=1d9e75)
-
-**Programming & Dev**
-
-![Python](https://img.shields.io/badge/Python-%230d1117?style=for-the-badge&logo=python&logoColor=f7c948)
-![R](https://img.shields.io/badge/R-%230d1117?style=for-the-badge&logo=r&logoColor=276dc3)
-![JavaScript](https://img.shields.io/badge/JavaScript-%230d1117?style=for-the-badge&logo=javascript&logoColor=f7c948)
-![React](https://img.shields.io/badge/React.js-%230d1117?style=for-the-badge&logo=react&logoColor=61dafb)
-![Flask](https://img.shields.io/badge/Flask-%230d1117?style=for-the-badge&logo=flask&logoColor=white)
-![GDAL](https://img.shields.io/badge/GDAL-%230d1117?style=for-the-badge&logoColor=white)
+![Sentinel](https://img.shields.io/badge/Sentinel--1%2F2-0d1117?style=for-the-badge)
+![Landsat](https://img.shields.io/badge/Landsat-0d1117?style=for-the-badge)
+![MODIS](https://img.shields.io/badge/MODIS-0d1117?style=for-the-badge)
+![InSAR](https://img.shields.io/badge/InSAR-0d1117?style=for-the-badge)
+![SNAP](https://img.shields.io/badge/SNAP-0d1117?style=for-the-badge)
+![GEE](https://img.shields.io/badge/Google%20Earth%20Engine-0d1117?style=for-the-badge&logo=google&logoColor=1d9e75)
+![QGIS](https://img.shields.io/badge/QGIS-0d1117?style=for-the-badge&logo=qgis&logoColor=1d9e75)
+![ArcGIS](https://img.shields.io/badge/ArcGIS%20Pro-0d1117?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=f7c948)
+![R](https://img.shields.io/badge/R-0d1117?style=for-the-badge&logo=r&logoColor=276dc3)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7c948)
+![React](https://img.shields.io/badge/React.js-0d1117?style=for-the-badge&logo=react&logoColor=61dafb)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white)
 
 </div>
 
