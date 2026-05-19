@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://img.shields.io/badge/-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-0d1117?style=for-the-badge)
+![header](https://img.shields.io/badge/-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-0d1117?style=for-the-badge)
 
 # Irfan Mahmood
 
@@ -27,16 +27,12 @@
 
 ---
 
-## 📡 Expertise
+## Core Expertise
 
-```python
-$ python -c "print(irfan.expertise)"
-
-→  Multi-temporal SAR/optical analysis  |  InSAR land deformation  |  Earthquake thermal precursors
-→  Crop health factor (CHF)  |  Weather index insurance  |  NDVI time-series  |  Drought indices (SPI/SPEI/VCI/CDI)
-→  Air quality monitoring (PM2.5/AOD)  |  Rangeland & forest degradation  |  Flood mapping  |  Oil spill detection
-→  GEE cloud computing  |  PyQGIS tool development  |  React + Flask geospatial web apps
-```
+  Multi-temporal SAR/optical · InSAR land deformation · Earthquake thermal precursors
+  Crop health factor (CHF) · Weather index insurance · NDVI time-series · Drought indices
+  Air quality (PM2.5/AOD) · Rangeland degradation · Flood mapping · Oil spill detection
+  GEE cloud computing · PyQGIS tool development · React + Flask geospatial web apps
 
 ---
 
