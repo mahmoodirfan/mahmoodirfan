@@ -16,7 +16,7 @@
 
 <br/>
 
-**🌐 Full portfolio → [mahmoodirfan.github.io](https://mahmoodirfan.github.io)**
+**🌐 Full portfolio → [mahmoodirfan.github.io/mahmoodirfan](https://mahmoodirfan.github.io/mahmoodirfan/)**
 
 </div>
 
