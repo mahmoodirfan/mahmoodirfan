@@ -14,10 +14,6 @@
 ![](https://img.shields.io/badge/GIS%20Tools-4%20Published-0d1117?style=for-the-badge&labelColor=0d1117&color=d85a30)
 ![](https://img.shields.io/badge/Gold%20Medal-BSc%20Geophysics-0d1117?style=for-the-badge&labelColor=0d1117&color=1d9e75)
 
-<br/>
-
-**🌐 Full portfolio → [mahmoodirfan.github.io/mahmoodirfan](https://mahmoodirfan.github.io/mahmoodirfan/)**
-
 </div>
 
 <br/>
@@ -29,10 +25,7 @@
 
 ## Core Expertise
 
-  Multi-temporal SAR/optical · InSAR land deformation · Earthquake thermal precursors
-  Crop health factor (CHF) · Weather index insurance · NDVI time-series · Drought indices
-  Air quality (PM2.5/AOD) · Rangeland degradation · Flood mapping · Oil spill detection
-  GEE cloud computing · PyQGIS tool development · React + Flask geospatial web apps
+  Multi-temporal SAR/optical · InSAR land deformation · Earthquake thermal precursors Crop health factor (CHF) · Weather index insurance · Agriculture Remote Sensing · NDVI time-series · Drought indices Air quality (PM2.5/AOD) · Rangeland degradation · Flood mapping · Oil spill detection GEE cloud computing · PyQGIS tool development · React + Flask geospatial web apps
 
 ---
 
