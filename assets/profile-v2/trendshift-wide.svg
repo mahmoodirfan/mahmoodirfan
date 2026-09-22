@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">TrendShift</title>
+<desc id="desc">QGIS TOOL. Find a candidate abrupt shift in raster time series. Map its timing, magnitude and direction. Decorative motif is illustrative, not measured data.</desc>
+<rect x="1" y="1" width="1198" height="298" rx="22" fill="#F5F4EE" stroke="#DEE3DC"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="42" y="47" font-size="18" font-weight="700" fill="#087F8C" letter-spacing="2">05  /  QGIS TOOL</text>
+<text x="40" y="111" font-size="48" font-weight="700" fill="#102A43" letter-spacing="-1.5">TrendShift</text>
+<text x="42" y="160" font-size="26" font-weight="400" fill="#496173" >Find a candidate abrupt shift in raster time series.</text>
+<text x="42" y="194" font-size="26" font-weight="400" fill="#496173" >Map its timing, magnitude and direction.</text>
+<text x="42" y="258" font-size="19" font-weight="400" fill="#496173" >Python · QGIS Processing</text>
+<text x="577" y="258" font-size="21" font-weight="700" fill="#102A43" >Explore repository</text>
+<path d="M773 251H809M801 243 809 251 801 259" fill="none" stroke="#087F8C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(866 40)">
+
+<rect x="18" y="20" width="244" height="180" rx="20" fill="#E8E7EC"/>
+<path d="M142 20H242Q262 20 262 40V180Q262 200 242 200H142Z" fill="#DBDAF0"/>
+<path d="M41 62H238M41 106H238M41 150H238" stroke="#102A43" stroke-opacity=".1" stroke-width="1.5"/>
+<path d="M142 35V185" stroke="#102A43" stroke-opacity=".45" stroke-width="2" stroke-dasharray="5 7"/>
+<path d="M41 154 65 145 92 156 119 146 139 151 147 75 169 63 191 73 215 61 239 67" fill="none" stroke="#087F8C" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M40 169H128V90H238" fill="none" stroke="#102A43" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="146" cy="75" r="10" fill="#102A43"/><circle cx="146" cy="75" r="4" fill="#CEF2A2"/>
+
+</g>
+</g>
+</svg>

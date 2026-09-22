@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="440" viewBox="0 0 640 440" role="img" aria-labelledby="title desc">
+<title id="title">RasterTrend</title>
+<desc id="desc">QGIS TOOL. Map gradual change through time with Mann–Kendall tests and Sen’s slope. Decorative motif is illustrative, not measured data.</desc>
+<rect x="1" y="1" width="638" height="438" rx="22" fill="#F5F4EE" stroke="#DEE3DC"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="42" y="47" font-size="18" font-weight="700" fill="#087F8C" letter-spacing="2">04  /  QGIS TOOL</text>
+<text x="40" y="110" font-size="46" font-weight="700" fill="#102A43" letter-spacing="-1.5">RasterTrend</text>
+<text x="42" y="158" font-size="27" font-weight="400" fill="#496173" >Mann–Kendall trend tests and</text>
+<text x="42" y="192" font-size="27" font-weight="400" fill="#496173" >Sen’s slope for raster stacks.</text>
+<text x="42" y="252" font-size="20" font-weight="400" fill="#496173" >Python · QGIS Processing</text>
+<path d="M42 287H113" stroke="#CEF2A2" stroke-width="5" stroke-linecap="round"/>
+<g transform="translate(383 238) scale(.79)">
+
+<rect x="18" y="20" width="244" height="180" rx="20" fill="#E7EBDD"/>
+<path d="M42 62H239M42 105H239M42 148H239" stroke="#102A43" stroke-opacity=".1" stroke-width="1.5"/>
+<path d="M43 178 68 150 94 159 118 120 144 130 169 91 194 102 238 51V182H43Z" fill="#CEF2A2"/>
+<path d="M43 178 68 150 94 159 118 120 144 130 169 91 194 102 238 51" fill="none" stroke="#087F8C" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M44 169 238 55" fill="none" stroke="#102A43" stroke-width="2" stroke-dasharray="5 7"/>
+<circle cx="118" cy="120" r="6" fill="#102A43"/><circle cx="238" cy="51" r="9" fill="#102A43"/>
+<circle cx="49" cy="47" r="21" fill="#102A43"/>
+<path d="M41 53 56 39M44 39H56V51" fill="none" stroke="#CEF2A2" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+</g>
+<text x="42" y="379" font-size="23" font-weight="700" fill="#102A43" >Explore repository</text>
+<path d="M43 402H86M78 394 86 402 78 410" fill="none" stroke="#087F8C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

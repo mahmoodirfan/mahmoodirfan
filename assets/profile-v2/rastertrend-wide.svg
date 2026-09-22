@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">RasterTrend</title>
+<desc id="desc">QGIS TOOL. Map gradual change through time with Mann–Kendall tests and Sen’s slope. Decorative motif is illustrative, not measured data.</desc>
+<rect x="1" y="1" width="1198" height="298" rx="22" fill="#F5F4EE" stroke="#DEE3DC"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="42" y="47" font-size="18" font-weight="700" fill="#087F8C" letter-spacing="2">04  /  QGIS TOOL</text>
+<text x="40" y="111" font-size="48" font-weight="700" fill="#102A43" letter-spacing="-1.5">RasterTrend</text>
+<text x="42" y="160" font-size="26" font-weight="400" fill="#496173" >Map gradual change through time with</text>
+<text x="42" y="194" font-size="26" font-weight="400" fill="#496173" >Mann–Kendall tests and Sen’s slope.</text>
+<text x="42" y="258" font-size="19" font-weight="400" fill="#496173" >Python · QGIS Processing</text>
+<text x="577" y="258" font-size="21" font-weight="700" fill="#102A43" >Explore repository</text>
+<path d="M773 251H809M801 243 809 251 801 259" fill="none" stroke="#087F8C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(866 40)">
+
+<rect x="18" y="20" width="244" height="180" rx="20" fill="#E7EBDD"/>
+<path d="M42 62H239M42 105H239M42 148H239" stroke="#102A43" stroke-opacity=".1" stroke-width="1.5"/>
+<path d="M43 178 68 150 94 159 118 120 144 130 169 91 194 102 238 51V182H43Z" fill="#CEF2A2"/>
+<path d="M43 178 68 150 94 159 118 120 144 130 169 91 194 102 238 51" fill="none" stroke="#087F8C" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M44 169 238 55" fill="none" stroke="#102A43" stroke-width="2" stroke-dasharray="5 7"/>
+<circle cx="118" cy="120" r="6" fill="#102A43"/><circle cx="238" cy="51" r="9" fill="#102A43"/>
+<circle cx="49" cy="47" r="21" fill="#102A43"/>
+<path d="M41 53 56 39M44 39H56V51" fill="none" stroke="#CEF2A2" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+</g>
+</g>
+</svg>

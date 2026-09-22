@@ -1,68 +1,121 @@
-<p align="center"><img src="assets/profile-banner.svg" alt="Irfan Mahmood — Remote Sensing and GIS Specialist. Science into practice." width="100%"></p>
+<picture>
+  <source media="(max-width: 1011px)" srcset="assets/profile-v2/hero-mobile.svg">
+  <img src="assets/profile-v2/hero-wide.svg" alt="Irfan Mahmood. Earth data. Real-world impact. Remote sensing, GIS and software. From satellite observations to science and useful software." width="100%">
+</picture>
 
 <p align="center">
-<a href="https://mahmoodirfan.github.io/mahmoodirfan/"><b>Explore my portfolio</b></a> &nbsp; · &nbsp;
-<a href="https://linkedin.com/in/irfan-mahmood-10b60144">LinkedIn</a> &nbsp; · &nbsp;
-<a href="https://scholar.google.com/citations?hl=en&amp;user=h8RBIjQAAAAJ">Publications</a> &nbsp; · &nbsp;
-<a href="mailto:irfan.koreshe@gmail.com">Get in touch</a>
+  <a href="https://mahmoodirfan.github.io/mahmoodirfan/"><strong>PORTFOLIO ↗</strong></a> &nbsp; / &nbsp;
+  <a href="#selected-work"><strong>PROJECTS ↓</strong></a> &nbsp; / &nbsp;
+  <a href="https://scholar.google.com/citations?hl=en&amp;user=h8RBIjQAAAAJ"><strong>RESEARCH ↗</strong></a> &nbsp; / &nbsp;
+  <a href="mailto:irfan.koreshe@gmail.com"><strong>CONTACT ↗</strong></a>
 </p>
 
-I build geospatial tools and Earth observation workflows for **agriculture, climate risk and environmental monitoring**. My work connects satellite time series, field observations and practical reporting.
+### A geospatial specialist who builds.
 
----
+I’m **Irfan Mahmood**, a Remote Sensing & GIS Specialist working across **Earth observation, climate, natural hazards, agriculture and marine environments**. I connect satellite time series and field observations with reproducible analysis, open geospatial tools and useful software.
 
-### Open tools. Practical questions.
+**Research → analysis → working tools.** Python packages, QGIS plugins, Earth Engine workflows and web applications.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/mahmoodirfan/RasterTrend"><img src="assets/rastertrend-card.svg" alt="RasterTrend — QGIS trend analysis" width="100%"></a>
-<p>Mann–Kendall tests and Sen’s slope for raster time series.</p>
-<a href="https://github.com/mahmoodirfan/RasterTrend#start-here"><b>Explore RasterTrend →</b></a>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/mahmoodirfan/TrendShift"><img src="assets/trendshift-card.svg" alt="TrendShift — QGIS change detection" width="100%"></a>
-<p>Pettitt change-point analysis for timing, magnitude and direction.</p>
-<a href="https://github.com/mahmoodirfan/TrendShift#start-here"><b>Explore TrendShift →</b></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/mahmoodirfan/OpenGeoEnrich"><img src="assets/opengeoenrich-card.svg" alt="OpenGeoEnrich — QGIS spatial enrichment" width="100%"></a>
-<p>Population, land cover, terrain, roads and facilities for your study area.</p>
-<a href="https://github.com/mahmoodirfan/OpenGeoEnrich#start-here"><b>Explore OpenGeoEnrich →</b></a>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/mahmoodirfan/spatialdrought"><img src="assets/spatialdrought-card.svg" alt="spatialdrought — Python climate analytics" width="100%"></a>
-<p>SPI, SPEI, VCI, TCI, VHI and CDI on gridded datasets.</p>
-<a href="https://github.com/mahmoodirfan/spatialdrought#quick-start"><b>Explore spatialdrought →</b></a>
-</td>
-</tr>
-</table>
+<br>
 
-Read each tool’s guide for input requirements, assumptions and current limitations.
+## Selected work
 
-## Where I work
+Open tools for understanding change, adding spatial context and making analytical results easier to use. Select a project to explore its code, examples and documentation.
 
-- **Agriculture:** crop mapping, vegetation time series, harvest timing and weather index insurance.
-- **Climate and ecosystems:** drought, rangeland condition, marine heatwaves and coastal environmental change.
-- **Geospatial development:** QGIS Processing plugins, Python automation and Google Earth Engine workflows.
+<a href="https://github.com/mahmoodirfan/OpenGeoEnrich">
+  <picture>
+    <source media="(max-width: 1011px)" srcset="assets/profile-v2/opengeoenrich-mobile.svg">
+    <img src="assets/profile-v2/opengeoenrich-wide.svg" alt="01. OpenGeoEnrich. QGIS plugin. Enrich points, lines and polygons with population, land cover, terrain, roads and facilities. Explore the repository." width="100%">
+  </picture>
+</a>
 
-My core tools are **Python, Google Earth Engine, QGIS, ArcGIS Pro and R**, working with optical, SAR and gridded climate data.
+<a href="https://github.com/mahmoodirfan/mapevidence">
+  <picture>
+    <source media="(max-width: 1011px)" srcset="assets/profile-v2/mapevidence-mobile.svg">
+    <img src="assets/profile-v2/mapevidence-wide.svg" alt="02. MapEvidence. Research Python library for map validation, area estimation, uncertainty and spatial cross-validation. Explore the repository." width="100%">
+  </picture>
+</a>
 
-## More projects
+<a href="https://github.com/mahmoodirfan/spatialdrought">
+  <picture>
+    <source media="(max-width: 1011px)" srcset="assets/profile-v2/spatialdrought-mobile.svg">
+    <img src="assets/profile-v2/spatialdrought-wide.svg" alt="03. spatialdrought. Python package. Compute SPI, SPEI, VCI, TCI, VHI and composite drought indicators on gridded time series. Explore the repository." width="100%">
+  </picture>
+</a>
 
-- [Sea Surface Temperature](https://github.com/mahmoodirfan/Sea-Surface-Temperature) — satellite-based SST analysis.
-- [Land Cover](https://github.com/mahmoodirfan/Land-Cover) — land-cover mapping and visualization.
-- [Terrain Visualization](https://github.com/mahmoodirfan/Terrain-Visualization) — terrain visualization workflows.
-- [Arctic Sea Ice Visualizer](https://github.com/mahmoodirfan/Arctic-Sea-Ice-Visualizer) — sea-ice visualization.
+<a href="https://github.com/mahmoodirfan/RasterTrend">
+  <picture>
+    <source media="(max-width: 1011px)" srcset="assets/profile-v2/rastertrend-mobile.svg">
+    <img src="assets/profile-v2/rastertrend-wide.svg" alt="04. RasterTrend. QGIS plugin. Mann–Kendall trend analysis and Sen’s slope for raster time series. Explore the repository." width="100%">
+  </picture>
+</a>
 
-## Research & collaboration
+<a href="https://github.com/mahmoodirfan/TrendShift">
+  <picture>
+    <source media="(max-width: 1011px)" srcset="assets/profile-v2/trendshift-mobile.svg">
+    <img src="assets/profile-v2/trendshift-wide.svg" alt="05. TrendShift. QGIS plugin. Locate a candidate abrupt shift and map its timing, magnitude and direction using the Pettitt test. Explore the repository." width="100%">
+  </picture>
+</a>
 
-I am interested in reproducible environmental analysis, useful GIS tools, and the climate of the Red Sea and its coral ecosystems.
+<a href="https://github.com/mahmoodirfan/ALIVE">
+  <picture>
+    <source media="(max-width: 1011px)" srcset="assets/profile-v2/alive-mobile.svg">
+    <img src="assets/profile-v2/alive-wide.svg" alt="06. ALIVE. Demo milestone. A deterministic scenario engine for rewinding, branching and comparing alternative futures in software demos. Explore the repository." width="100%">
+  </picture>
+</a>
 
-Browse my [publications on Google Scholar](https://scholar.google.com/citations?hl=en&user=h8RBIjQAAAAJ) or [articles on Medium](https://medium.com/@irfan.koreshe).
+<sub>Each repository documents its current scope, assumptions and limitations. Panel graphics are illustrations, not analytical results.</sub>
 
-**Using one of my tools?** Open an issue in its repository with your use case, a reproducible problem or a feature request. Small examples and clear feedback help improve the next release.
+**[Browse all public repositories ↗](https://github.com/mahmoodirfan?tab=repositories)**
 
-For research collaboration or geospatial consultancy, [get in touch](mailto:irfan.koreshe@gmail.com).
+<br>
+
+## Across disciplines
+
+**Climate & ecosystems** · Drought, vegetation condition, forest and rangeland change, marine heatwaves and coastal monitoring.
+
+**Hazards & Earth processes** · Flood mapping, SAR, InSAR, surface deformation and environmental change.
+
+**Agriculture & water** · Crop classification, seasonal time series, irrigation and weather index insurance.
+
+**Geospatial development** · Reusable Python libraries, QGIS Processing tools, cloud analysis and web interfaces.
+
+### My working toolkit
+
+**Analysis** &nbsp; Python · R · Google Earth Engine · NumPy · SciPy · xarray<br>
+**Spatial** &nbsp; QGIS / PyQGIS · ArcGIS Pro · GDAL · Rasterio · GeoPandas<br>
+**Interfaces** &nbsp; JavaScript · TypeScript · React · Leaflet<br>
+**Observations** &nbsp; Optical imagery · SAR · Gridded climate data · Field observations
+
+<br>
+
+## Beyond the tools
+
+### AirVista · Environmental data on the web
+
+A web interface for exploring environmental information. **[Open AirVista ↗](https://airvista.netlify.app/)**
+
+### Oceans, landscapes & a changing climate
+
+Explore my [sea surface temperature workflows](https://github.com/mahmoodirfan/Sea-Surface-Temperature), [land-cover mapping](https://github.com/mahmoodirfan/Land-Cover), [terrain visualization](https://github.com/mahmoodirfan/Terrain-Visualization) and [Arctic sea-ice visualizer](https://github.com/mahmoodirfan/Arctic-Sea-Ice-Visualizer).
+
+My research interests include the **Red Sea, marine climate and coral ecosystems**, alongside practical methods for reproducible environmental analysis.
+
+**[Publications on Google Scholar ↗](https://scholar.google.com/citations?hl=en&user=h8RBIjQAAAAJ)** &nbsp; · &nbsp; **[Writing on Medium ↗](https://medium.com/@irfan.koreshe)**
+
+<br>
+
+<a href="mailto:irfan.koreshe@gmail.com">
+  <picture>
+    <source media="(max-width: 1011px)" srcset="assets/profile-v2/contact-mobile.svg">
+    <img src="assets/profile-v2/contact-wide.svg" alt="Let’s build something useful. Research, consultancy and geospatial development. Get in touch with Irfan Mahmood." width="100%">
+  </picture>
+</a>
+
+<p align="center">
+  <a href="mailto:irfan.koreshe@gmail.com"><strong>Email</strong></a> &nbsp; · &nbsp;
+  <a href="https://linkedin.com/in/irfan-mahmood-10b60144"><strong>LinkedIn</strong></a> &nbsp; · &nbsp;
+  <a href="https://mahmoodirfan.github.io/mahmoodirfan/"><strong>Full portfolio</strong></a>
+</p>
+
+<p align="center"><sub>Earth observation · Environmental research · Geospatial software</sub></p>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="440" viewBox="0 0 640 440" role="img" aria-labelledby="title desc">
+<title id="title">OpenGeoEnrich</title>
+<desc id="desc">QGIS TOOL. Add population, land cover and infrastructure context to your QGIS layers. Decorative motif is illustrative, not measured data.</desc>
+<rect x="1" y="1" width="638" height="438" rx="22" fill="#F5F4EE" stroke="#DEE3DC"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="42" y="47" font-size="18" font-weight="700" fill="#087F8C" letter-spacing="2">01  /  QGIS TOOL</text>
+<text x="40" y="110" font-size="46" font-weight="700" fill="#102A43" letter-spacing="-1.5">OpenGeoEnrich</text>
+<text x="42" y="158" font-size="27" font-weight="400" fill="#496173" >Population, land and infrastructure</text>
+<text x="42" y="192" font-size="27" font-weight="400" fill="#496173" >indicators inside QGIS.</text>
+<text x="42" y="252" font-size="20" font-weight="400" fill="#496173" >Python · QGIS Processing</text>
+<path d="M42 287H113" stroke="#087F8C" stroke-width="5" stroke-linecap="round"/>
+<g transform="translate(383 238) scale(.79)">
+
+<path d="M21 63 101 28 184 48 264 15V164L184 200 100 180 21 214Z" fill="#E4EBE4"/>
+<path d="M101 28V180M184 48V200" fill="none" stroke="#102A43" stroke-opacity=".12" stroke-width="2"/>
+<path d="M25 164C72 129 60 103 111 111S185 160 261 77" fill="none" stroke="#087F8C" stroke-opacity=".24" stroke-width="18"/>
+<path d="M30 100 99 73 169 105 237 53M65 185 99 73M169 105 205 166M99 73 205 166" fill="none" stroke="#102A43" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="99" cy="73" r="15" fill="#087F8C"/><circle cx="99" cy="73" r="5" fill="#CEF2A2"/>
+<circle cx="169" cy="105" r="11" fill="#102A43"/><circle cx="237" cy="53" r="9" fill="#F3A785"/>
+<circle cx="65" cy="185" r="9" fill="#087F8C"/><circle cx="205" cy="166" r="12" fill="#CEF2A2" stroke="#102A43" stroke-width="2.5"/>
+
+</g>
+<text x="42" y="379" font-size="23" font-weight="700" fill="#102A43" >Explore repository</text>
+<path d="M43 402H86M78 394 86 402 78 410" fill="none" stroke="#087F8C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
